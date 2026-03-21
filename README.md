@@ -63,17 +63,68 @@ Gives AI agents direct access to every platform you're logged into - not through
 
 ## `> tech stack_`
 
-<!-- LANGUAGES -->
-<img src="https://skillicons.dev/icons?i=ts,js,cpp,go,python,rust,html,css&theme=dark" />
+#### Languages
+<img src="https://skillicons.dev/icons?i=ts,js,py,cpp,go,java,cs,php,lua,bash&theme=dark" />
+
+#### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,jquery&theme=dark" />
 <br/>
-<!-- FRAMEWORKS & TOOLS -->
-<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,express,tailwind,electron&theme=dark" />
+![Shadcn](https://img.shields.io/badge/Shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+#### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi,dotnet,django&theme=dark" />
 <br/>
-<!-- INFRA & DEVOPS -->
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,postgres,mongodb,redis&theme=dark" />
+![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
+
+#### Databases & ORMs
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase,firebase&theme=dark" />
 <br/>
-<!-- OTHER -->
-<img src="https://skillicons.dev/icons?i=firefox,vscode,figma,cloudflare&theme=dark" />
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+
+#### DevOps & Infrastructure
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,azure,vercel,netlify,cloudflare,nginx,terraform,githubactions,gitlab,linux,windows&theme=dark" />
+<br/>
+![WSL](https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=windows&logoColor=white)
+
+#### Tools & Build
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vim,neovim,figma,postman,webpack,vite,pnpm,yarn&theme=dark" />
+<br/>
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
+
+#### Testing & Automation
+<img src="https://skillicons.dev/icons?i=playwright,selenium,jest,vitest&theme=dark" />
+<br/>
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
+
+#### AI / ML
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
+<br/>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-2B2B2B?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
+
+#### Mobile
+<img src="https://skillicons.dev/icons?i=react&theme=dark" />
+<br/>
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
+#### APIs & Protocols
+<img src="https://skillicons.dev/icons?i=graphql&theme=dark" />
+<br/>
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=google&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
+
+#### Web3
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
 
 <br/><br/>
 
