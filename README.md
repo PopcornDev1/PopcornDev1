@@ -65,9 +65,7 @@ Gives AI agents direct access to every platform you're logged into - not through
 
 <img src="https://skillicons.dev/icons?i=ts,cpp,go,py,react,nextjs,nodejs,nginx,postgres,mongodb,redis,docker,aws,cloudflare,graphql,tensorflow,terraform,linux&theme=dark&perline=9" />
 
-<sub>(the other 42 icons wasn't a great look)</sub>
-
-<br/><br/>
+<sub>(the other 43 icons seemed excessive)</sub>
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:e.coileybusiness@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=PopcornDev1&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS" />
