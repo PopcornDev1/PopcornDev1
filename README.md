@@ -40,7 +40,7 @@ Building tools that operate below the radar. Contributed **per-context fingerpri
 <td width="50%" valign="top">
 
 ### 🤖 Browser Automation at Scale
-I've spent years building scrapers, proxy systems, and automation that actually works long-term. Captcha flows, rotation, headless pipelines — you name it. Most of the interesting stuff never makes it to public repos.
+I've spent years building scrapers, proxy systems, and automation that actually works long-term. Captcha flows, rotation, headless pipelines - you name it. Most of which never makes it to public repos.
 
 </td>
 </tr>
@@ -48,7 +48,7 @@ I've spent years building scrapers, proxy systems, and automation that actually 
 <td width="50%" valign="top">
 
 ### 🔄 Flippify
-A platform I built for resellers to stop doing everything manually. It syncs inventory and crosslists across marketplaces using APIs and browser extensions — basically automates the boring parts so people can focus on actually selling.
+A platform we built for resellers to stop doing everything manually. It syncs inventory and crosslists across marketplaces using APIs and browser extensions — automating everything after you've purchased stock, to just before you ship the item. The future of reselling. 
 
 </td>
 <td width="50%" valign="top">
