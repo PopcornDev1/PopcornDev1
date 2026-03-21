@@ -40,7 +40,7 @@ Building tools that operate below the radar. Contributed **per-context fingerpri
 <td width="50%" valign="top">
 
 ### 🤖 Browser Automation at Scale
-From surgical scrapers to full automation pipelines. Proxy orchestration, captcha navigation, and browser automation that doesn't get caught. If there's a wall, I've probably already been on the other side of it.
+I've spent years building scrapers, proxy systems, and automation that actually works long-term. Captcha flows, rotation, headless pipelines — you name it. Most of the interesting stuff never makes it to public repos.
 
 </td>
 </tr>
@@ -48,13 +48,13 @@ From surgical scrapers to full automation pipelines. Proxy orchestration, captch
 <td width="50%" valign="top">
 
 ### 🔄 Flippify
-An automation platform for resellers — syncing inventory and crosslisting across marketplaces via APIs, browser extensions, and pure persistence. Turning manual hustle into automated systems.
+A platform I built for resellers to stop doing everything manually. It syncs inventory and crosslists across marketplaces using APIs and browser extensions — basically automates the boring parts so people can focus on actually selling.
 
 </td>
 <td width="50%" valign="top">
 
-### 🔗 API Integrations & MCP
-Building MCP server integrations, connecting platforms that weren't designed to talk to each other. Currently working with LinkedIn APIs, agentic tooling, and making AI agents actually useful in the real world.
+### 🔗 neo-mcp
+Working with a team on [neo-mcp](https://github.com/PopcornDev1/neo-mcp) — an MCP server that lets AI agents take over your social media accounts and websites. It figures out auth tokens on its own, learns how to carry out actions, and works across multiple accounts. Think of it as giving an agent the keys to your online presence.
 
 </td>
 </tr>
