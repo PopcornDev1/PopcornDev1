@@ -30,8 +30,8 @@ const elliot = {
 <tr>
 <td width="50%" valign="top">
 
-### 🦊 [Stealth & Anti-Detection](https://github.com/PopcornDev1/VulpineOS)
-Contributed **per-context fingerprint spoofing** to [Camoufox](https://github.com/daijro/camoufox) — unique fingerprints for every browser context on a single process. Now building [VulpineOS](https://github.com/PopcornDev1/VulpineOS), a stealth browser platform for managing hundreds of autonomous agents with built-in anti-injection safety.
+### 🦊 [VulpineOS](https://github.com/PopcornDev1/VulpineOS)
+A stealth browser OS built on [Camoufox](https://github.com/daijro/camoufox) with full OpenClaw support — manage dozens of AI agents in one place, connected via Foxbridge, with anti-injection, token optimization, and DOM freezing built in. Born from my work at Clover Labs where I implemented per-context fingerprint spoofing on Camoufox (Clover is now the primary maintainer).
 
 </td>
 <td width="50%" valign="top">
