@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:1a1b27&height=150&section=header" width="100%"/>
-
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%94%8D+Browser+Automation+%7C+Anti-Detection+%7C+Stealth;%F0%9F%A6%8A+Camoufox+Contributor+%7C+VulpineOS+Creator;%F0%9F%8C%8F+Coding+from+a+campervan+%E2%80%94+somewhere+on+Earth" alt="Typing SVG" /></a>
 
@@ -54,7 +51,7 @@ A platform we built for resellers to stop doing everything manually. It syncs in
 <td width="50%" valign="top">
 
 ### 🔗 [neo-mcp](https://github.com/PopcornDev1/neo-mcp)
-Working with a team on an MCP server that lets AI agents take over your social media accounts and websites. It figures out auth tokens on its own, learns how to carry out actions, and works across multiple accounts. Think of it as giving an agent the keys to your online presence.
+Gives AI agents direct access to every platform you're logged into — LinkedIn, GitHub, Gmail, Slack, anything. Not through the UI like browser extensions that break when a button moves, but through the actual internal APIs that websites use themselves, piggybacking on your existing browser session. Zero API keys, zero setup. If a platform isn't built in yet, `discover_api` reverse-engineers any site's API in seconds and saves it as a permanent tool. One natural language request can chain actions across multiple platforms in parallel. The Claude API gives you intelligence — Neo gives that intelligence access to everything.
 
 </td>
 </tr>
@@ -80,15 +77,6 @@ Working with a team on an MCP server that lets AI agents take over your social m
 
 <br/><br/>
 
-## `> projects_`
-
-<a href="https://github.com/PopcornDev1/VulpineOS"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PopcornDev1&repo=VulpineOS&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" /></a>
-<a href="https://github.com/PopcornDev1/foxbridge"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PopcornDev1&repo=foxbridge&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" /></a>
-<a href="https://github.com/PopcornDev1/neo-mcp"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PopcornDev1&repo=neo-mcp&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" /></a>
-<a href="https://github.com/daijro/camoufox"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=daijro&repo=camoufox&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" /></a>
-
-<br/><br/>
-
 ## `> reach out_`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elliotcoiley)
@@ -100,6 +88,3 @@ Working with a team on an MCP server that lets AI agents take over your social m
 <img src="https://komarev.com/ghpvc/?username=PopcornDev1&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS" />
 
 </div>
-
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:1a1b27&height=150&section=footer" width="100%"/>
