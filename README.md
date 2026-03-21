@@ -63,7 +63,7 @@ Gives AI agents direct access to every platform you're logged into - not through
 
 ## `> tech stack_`
 
-<img src="https://skillicons.dev/icons?i=ts,cpp,go,py,react,nextjs,nodejs,tailwind,postgres,mongodb,redis,docker,aws,cloudflare,graphql,tensorflow,git,linux&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=ts,cpp,go,py,react,nextjs,nodejs,nginx,postgres,mongodb,redis,docker,aws,cloudflare,graphql,tensorflow,terraform,linux&theme=dark&perline=9" />
 
 <br/><br/>
 
