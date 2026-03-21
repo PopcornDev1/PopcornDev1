@@ -31,7 +31,7 @@ const elliot = {
 <td width="50%" valign="top">
 
 ### 🦊 [VulpineOS](https://github.com/PopcornDev1/VulpineOS)
-An OS for managing stealth AI agents on a single camoufox process, built on [Camoufox](https://github.com/daijro/camoufox) with full OpenClaw support — manage dozens of AI agents in one place, connected via Foxbridge, with anti-injection, token optimization, and per-agent fingerprint spoofing built in. Born from my work at Clover Labs where I implemented per-context fingerprint spoofing on Camoufox (Clover is now the primary maintainer).
+An OS for managing stealth OpenClaw agents on a single [Camoufox](https://github.com/daijro/camoufox) process, integrates full OpenClaw support - click a button and you can spawn a new agent - managing dozens of agents in one place, connected via [Foxbridge](https://github.com/PopcornDev1/foxbridge), with anti-injection, token optimization, and per-agent fingerprint spoofing built in. Born from my work at Clover Labs where I implemented per-context fingerprint spoofing on Camoufox (Clover is now the primary maintainer).
 
 </td>
 <td width="50%" valign="top">
