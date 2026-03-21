@@ -51,7 +51,7 @@ A platform we built for resellers to stop doing everything manually. It syncs in
 <td width="50%" valign="top">
 
 ### 🔗 [neo-mcp](https://github.com/PopcornDev1/neo-mcp)
-Gives AI agents direct access to every platform you're logged into — LinkedIn, GitHub, Gmail, Slack, anything. Not through the UI like browser extensions that break when a button moves, but through the actual internal APIs that websites use themselves, piggybacking on your existing browser session. Zero API keys, zero setup. If a platform isn't built in yet, `discover_api` reverse-engineers any site's API in seconds and saves it as a permanent tool. One natural language request can chain actions across multiple platforms in parallel.
+Gives AI agents direct access to every platform you're logged into - not through the UI, but through the real internal APIs websites use themselves, via your existing browser session. Zero API keys, zero setup. For platforms that aren't built in, `discover_api` reverse-engineers any site's API in seconds and saves it permanently. One request can chain actions across multiple platforms in parallel.
 
 </td>
 </tr>
