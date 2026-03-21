@@ -63,83 +63,9 @@ Gives AI agents direct access to every platform you're logged into - not through
 
 ## `> tech stack_`
 
-<details>
-<summary><b>Languages</b></summary>
+<img src="https://skillicons.dev/icons?i=ts,cpp,go,py,react,nextjs,nodejs,tailwind,postgres,mongodb,redis,docker,aws,cloudflare,playwright,graphql,tensorflow,git,linux&theme=dark&perline=10" />
 <br/>
-<img src="https://skillicons.dev/icons?i=ts,js,py,cpp,go,java,cs,php,lua,bash&theme=dark&perline=10" />
-</details>
-
-<details>
-<summary><b>Frontend</b></summary>
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,jquery,styledcomponents&theme=dark&perline=8" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-<img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" />
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-</details>
-
-<details>
-<summary><b>Backend & Databases</b></summary>
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi,dotnet,django,postgres,mongodb,mysql,redis,supabase,firebase&theme=dark&perline=6" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" />
-<img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" />
-<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
-</details>
-
-<details>
-<summary><b>DevOps & Infrastructure</b></summary>
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,aws,gcp,azure,vercel,netlify,cloudflare,nginx,terraform,githubactions,gitlab,linux,windows&theme=dark&perline=7" />
-</details>
-
-<details>
-<summary><b>Tools & Build</b></summary>
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vim,neovim,figma,postman,webpack,vite,pnpm,yarn&theme=dark&perline=6" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" />
-</details>
-
-<details>
-<summary><b>Testing & Automation</b></summary>
-<br/>
-<img src="https://skillicons.dev/icons?i=playwright,selenium,jest,vitest&theme=dark&perline=5" />
-<br/><br/>
 <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" />
-</details>
-
-<details>
-<summary><b>AI / ML</b></summary>
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-<br/><br/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-<img src="https://img.shields.io/badge/ComfyUI-2B2B2B?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" />
-</details>
-
-<details>
-<summary><b>Mobile</b></summary>
-<br/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-</details>
-
-<details>
-<summary><b>APIs, Protocols & Web3</b></summary>
-<br/>
-<img src="https://skillicons.dev/icons?i=graphql&theme=dark" />
-<br/><br/>
-<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-<img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white" />
-<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white" />
-</details>
 
 <br/><br/>
 
