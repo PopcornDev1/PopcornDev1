@@ -63,9 +63,7 @@ Gives AI agents direct access to every platform you're logged into - not through
 
 ## `> tech stack_`
 
-<img src="https://skillicons.dev/icons?i=ts,cpp,go,py,react,nextjs,nodejs,tailwind,postgres,mongodb,redis,docker,aws,cloudflare,playwright,graphql,tensorflow,git,linux&theme=dark&perline=10" />
-<br/>
-<img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=ts,cpp,go,py,react,nextjs,nodejs,tailwind,postgres,mongodb,redis,docker,aws,cloudflare,graphql,tensorflow,git,linux&theme=dark&perline=9" />
 
 <br/><br/>
 
