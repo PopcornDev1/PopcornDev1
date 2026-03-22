@@ -44,7 +44,7 @@ The first open-source CDP-to-Firefox protocol bridge. Lets CDP-only tools like P
 <tr>
 <td width="50%" valign="top">
 
-### 🔄 [Flippify](https://github.com/PopcornDev1/flippify)
+### 🔄 [Flippify](https://flippify.io/)
 A platform we built for resellers to stop doing everything manually. It syncs inventory and crosslists across marketplaces using APIs and browser extensions — automating everything after you've purchased stock, to just before you ship the item. The future of reselling.
 
 </td>
