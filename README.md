@@ -37,7 +37,7 @@ Operate stealth and secure OpenClaw agents at scale. A full agent operating syst
 <td width="50%" valign="top">
 
 ### <img src="FoxbridgeLogo.png" width="24" height="24" style="vertical-align: middle;" /> [Foxbridge](https://github.com/PopcornDev1/foxbridge)
-CDP-to-Firefox protocol proxy — via Juggler and WebDriver BiDi. Lets Puppeteer, OpenClaw, and any CDP tool control Camoufox or standard Firefox. 13 CDP domains fully translated, 74/74 Juggler tests and 62/62 BiDi tests passing. Runs as an embedded server inside VulpineOS or standalone. Built in Go, built because nothing else did this.
+The first open source CDP-to-Firefox protocol proxy — via Juggler and WebDriver BiDi. Lets Puppeteer, OpenClaw, and any CDP tool control Camoufox or standard Firefox. Runs as an embedded server inside VulpineOS or standalone. Built in Go, built because nothing else did this.
 
 </td>
 </tr>
