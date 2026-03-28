@@ -30,14 +30,14 @@ const elliot = {
 <tr>
 <td width="50%" valign="top">
 
-### 🦊 [VulpineOS](https://github.com/PopcornDev1/VulpineOS)
-An OS for managing stealth OpenClaw agents on a single [Camoufox](https://github.com/daijro/camoufox) process, integrates full OpenClaw support - click a button and you can spawn a new agent - managing dozens of agents in one place, connected via [Foxbridge](https://github.com/PopcornDev1/foxbridge), with anti-injection, token optimization, and per-agent fingerprint spoofing built in. Born from my work at Clover Labs where I implemented per-context fingerprint spoofing on Camoufox (Clover is now the primary maintainer).
+### <img src="VulpineOSCircleLogo.png" width="24" height="24" style="vertical-align: middle;" /> [VulpineOS](https://github.com/PopcornDev1/VulpineOS)
+Operate stealth and secure OpenClaw agents at scale. A full agent operating system built on [Camoufox](https://github.com/daijro/camoufox) — manage hundreds of agents with unique fingerprints, per-agent proxies, context isolation, and zero detection. Includes a web dashboard, TUI, agent scripting DSL, token optimization (80%+ reduction), 7-layer security suite, cost tracking, webhooks, and session recording. Single binary, single Firefox process, shared via embedded [Foxbridge](https://github.com/PopcornDev1/foxbridge) CDP proxy. Born from my work at Clover Labs where I implemented per-context fingerprint spoofing on Camoufox.
 
 </td>
 <td width="50%" valign="top">
 
-### 🌉 [Foxbridge](https://github.com/PopcornDev1/foxbridge)
-The first open-source CDP-to-Firefox protocol bridge. Lets CDP-only tools like Puppeteer and OpenClaw control Firefox-based browsers like Camoufox — translating Chrome DevTools Protocol to Juggler, with WebDriver BiDi support coming next. Built in Go, built because nothing else did this.
+### <img src="FoxbridgeLogo.png" width="24" height="24" style="vertical-align: middle;" /> [Foxbridge](https://github.com/PopcornDev1/foxbridge)
+CDP-to-Firefox protocol proxy — via Juggler and WebDriver BiDi. Lets Puppeteer, OpenClaw, and any CDP tool control Camoufox or standard Firefox. 13 CDP domains fully translated, 74/74 Juggler tests and 62/62 BiDi tests passing. Runs as an embedded server inside VulpineOS or standalone. Built in Go, built because nothing else did this.
 
 </td>
 </tr>
