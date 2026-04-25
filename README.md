@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%94%8D+Browser+Automation+%7C+Anti-Detection+%7C+Stealth;%F0%9F%A6%8A+Camoufox+Contributor+%7C+VulpineOS+Creator;%F0%9F%8C%8F+Coding+from+a+campervan+%E2%80%94+somewhere+on+Earth" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%94%8D+Browser+Engineering+%7C+Anti-Detection+%7C+Stealth;%F0%9F%A6%8A+Camoufox+Contributor+%7C+VulpineOS+Creator;%F0%9F%8C%8F+Coding+from+a+campervan+%E2%80%94+somewhere+on+Earth" alt="Typing SVG" /></a>
 
 </div>
 
